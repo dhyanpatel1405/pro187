@@ -1,0 +1,11 @@
+Model Information:
+* title:	Naaaaw! - Star Wars
+* source:	https://sketchfab.com/3d-models/naaaaw-star-wars-6a17b5a76f5f46f6a0d586d855dc15c9
+* author:	elbriga (https://sketchfab.com/elbriga)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Naaaaw! - Star Wars" (https://sketchfab.com/3d-models/naaaaw-star-wars-6a17b5a76f5f46f6a0d586d855dc15c9) by elbriga (https://sketchfab.com/elbriga) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
